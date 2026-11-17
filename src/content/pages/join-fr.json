@@ -5,14 +5,6 @@
   "layout": "../layouts/PageLayout.astro",
   "blocks": [
     {
-      "type": "form",
-      "url": "https://tally.so/embed/LZ2AEG?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1",
-      "style": {
-        "alignment": "center",
-        "size": "screen"
-      }
-    },
-    {
       "type": "spacer",
       "size": "240px",
       "style": {
