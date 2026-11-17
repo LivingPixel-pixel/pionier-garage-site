@@ -6,14 +6,6 @@
   "blocks": [
     {
       "type": "spacer",
-      "size": "80px",
-      "style": {
-        "alignment": "center",
-        "size": "full"
-      }
-    },
-    {
-      "type": "spacer",
       "size": "240px",
       "style": {
         "alignment": "center",
