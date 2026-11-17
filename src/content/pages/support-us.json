@@ -1,7 +1,0 @@
-{
-  "title": "Support Us",
-  "language": "EN",
-  "slug": "\\supportus",
-  "description": "Support US Page for information required for donations",
-  "layout": "../layouts/PageLayout.astro"
-}
