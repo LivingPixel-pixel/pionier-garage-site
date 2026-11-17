@@ -11,6 +11,10 @@
       "heroTagline": "Notre Batch",
       "image": "/src/assets/batch_hero_desktop.png",
       "mobileImage": "/src/assets/batch_hero_mobile.png",
+      "button": {
+        "text": "Postulez maintenant!",
+        "link": "fr/contact/"
+      },
       "style": {
         "alignment": "center",
         "size": "full"
@@ -39,7 +43,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Ton parcours pour rejoindre PG",
+      "content": "## Ton parcours pour rejoindre PG\n\n",
       "style": {
         "alignment": "left",
         "size": "full"
@@ -80,7 +84,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Ce qu’en disent nos membres",
+      "content": "## Ce qu’en disent nos membres\n\n",
       "style": {
         "alignment": "left",
         "size": "full"
@@ -120,7 +124,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Questions fréquentes",
+      "content": "## Questions fréquentes\n\n",
       "style": {
         "alignment": "left",
         "size": "full"
