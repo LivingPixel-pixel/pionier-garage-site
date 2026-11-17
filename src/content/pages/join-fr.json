@@ -13,7 +13,7 @@
       "mobileImage": "/src/assets/batch_hero_mobile.png",
       "button": {
         "text": "Postulez maintenant!",
-        "link": "fr/contact/"
+        "link": "fr/contact"
       },
       "style": {
         "alignment": "center",
