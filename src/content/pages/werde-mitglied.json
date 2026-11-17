@@ -39,7 +39,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Dein Weg in die PG",
+      "content": "## Dein Weg in die PG\n\n",
       "style": {
         "alignment": "left",
         "size": "full"
@@ -80,7 +80,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Das sagen unsere Mitglieder",
+      "content": "## Das sagen unsere Mitglieder\n\n",
       "style": {
         "alignment": "left",
         "size": "full"
@@ -115,7 +115,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Häufig gestellte Fragen",
+      "content": "## Häufig gestellte Fragen\n\n",
       "style": {
         "alignment": "left",
         "size": "full"
