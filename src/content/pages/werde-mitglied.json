@@ -5,14 +5,6 @@
   "layout": "../layouts/PageLayout.astro",
   "blocks": [
     {
-      "type": "spacer",
-      "size": "240px",
-      "style": {
-        "alignment": "center",
-        "size": "full"
-      }
-    },
-    {
       "type": "hero",
       "title": "Werde Mitglied",
       "subtitle": "Wir starten zweimal pro Jahr eine neue Trainee-Batch: zum Beginn des Wintersemesters und zum Beginn des Sommersemesters.",
@@ -39,7 +31,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Dein Weg in die PG\n\n",
+      "content": "## Dein Weg in die PG",
       "style": {
         "alignment": "left",
         "size": "full"
@@ -80,7 +72,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Das sagen unsere Mitglieder\n\n",
+      "content": "## Das sagen unsere Mitglieder",
       "style": {
         "alignment": "left",
         "size": "full"
@@ -115,7 +107,7 @@
     },
     {
       "type": "rich-text",
-      "content": "## Häufig gestellte Fragen\n\n",
+      "content": "## Häufig gestellte Fragen",
       "style": {
         "alignment": "left",
         "size": "full"
